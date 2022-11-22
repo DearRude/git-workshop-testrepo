@@ -1,10 +1,11 @@
 # Test repo
 
 ## Installation
-Instal folan folan
+I love Rasool :D
 
 ## Usage 
 Use folan folan folan
 
 ####Hi :)
 
+Use folan folan
