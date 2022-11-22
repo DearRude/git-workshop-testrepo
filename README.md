@@ -4,4 +4,4 @@
 Instal folan folan
 
 ## Usage 
-Use folan folan folan
+Use folan folan
