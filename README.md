@@ -3,7 +3,9 @@
 ## Installation
 I love Rasool :D
 
+
+
 ## Usage 
-Use folan folan folan
+In Rasool, we trust...
 
 ####Hi :)
