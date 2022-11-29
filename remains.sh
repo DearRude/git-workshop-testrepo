@@ -2,7 +2,6 @@
 
 then=$(date -d $1 +"%s")
 
-# Comment
 
 while true; do
     now=$(date +"%s")
